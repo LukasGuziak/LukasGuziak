@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Script and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LukasGuziak](https://github.com/LukasGuziak)
+- 👨‍💻 All of my projects are available at [https://github.com/LukasGuziak](https://github.com/LukasGuziak?tab=repositories)
 
 - 📫 How to reach me **guziak.luk@gmail.com**
 
