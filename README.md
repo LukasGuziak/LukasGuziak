@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukas Guziak</h1>
 <h3 align="center">A passionate frontend developer from Łódź city in Poland.</h3>
-<h3 align="center">Please visit my [portfolio page.](https://lukasdev.pl)</h3>
+Please visit my [portfolio page.](https://lukasdev.pl)
 
 - 🔭 I’m currently working on [website for a Łódź law firm](https://krp-ww.pl) and [websites for a furniture company](https://lukasdevtest2.tech)
 
