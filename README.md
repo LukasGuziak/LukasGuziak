@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas Guziak</h1>
 <h3 align="center">A passionate frontend developer from Łódź city in Poland.</h3>
 
-- :computer: visit my [portfolio page](https://lukasdev.pl). 
-where you can see my commercial website projects [website for a Łódź law firm](https://krp-ww.pl) and [websites for a furniture company](https://piotrpacki.pl)
+- :computer: visit my [portfolio page](https://lukasdev.pl), where you can see my commercial website projects [website for a Łódź law firm](https://krp-ww.pl) and [websites for a furniture company](https://piotrpacki.pl)
 
 - 🔭 I am currently working on a ToDo application written in TypeScript. I am writing it because I want to use it when planning other projects. 
 It will be available soon on the [test server](https://lukasdevtest.tech)
